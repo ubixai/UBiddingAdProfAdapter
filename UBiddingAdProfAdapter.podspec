@@ -12,4 +12,5 @@ Pod::Spec.new do |s|
 
   s.dependency 'UBiddingAdSDK'
   s.dependency 'AdProfSDK', '2.1.8'
+  s.dependency 'BLKDeviceTool', '1.0.1'
 end
