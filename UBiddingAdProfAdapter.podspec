@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'UBiddingAdProfAdapter'
-  s.version          = '2.1.8.2'
+  s.version          = '2.1.8.2.1'
   s.summary          = 'UBiX聚合Saas SDK AdProf Adapter'
   s.homepage         = 'https://www.ubixai.com/product/md'
   s.author           = { 'UBiX' => 'sdk@ubixai.com' }
@@ -11,6 +11,6 @@ Pod::Spec.new do |s|
   s.vendored_frameworks = 'UBiddingAdProfAdapter.xcframework'
 
   s.dependency 'UBiddingAdSDK'
-  s.dependency 'AdProfSDK', '2.1.8'
+  s.dependency 'AdProfSDK', '2.1.8.2'
   s.dependency 'BLKDeviceTool', '1.0.1'
 end
