@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'UBiddingAdProfAdapter'
-  s.version          = '2.1.8.2.1'
+  s.version          = '2.1.8.2.2'
   s.summary          = 'UBiX聚合Saas SDK AdProf Adapter'
   s.homepage         = 'https://www.ubixai.com/product/md'
   s.author           = { 'UBiX' => 'sdk@ubixai.com' }
